@@ -29,6 +29,6 @@ registry: null  # path to registry configuration file
 
 Запустится php cli-server, откройте в браузере  [http://localhost:8000](http://localhost:8000)
 
+![](docs/screen2.png)
 ![](docs/screen1.png)
 
-![](docs/screen2.png)
