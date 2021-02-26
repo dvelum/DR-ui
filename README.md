@@ -20,7 +20,7 @@
 bootstrap: null #  бутстрап файл вашего приложения
 server:
      host: localhost # хост для php cli-server
-     port: 8000 #  порт  php cli-server
+     port: 8000 # порт для php cli-server
 registry: null  # path to registry configuration file
 ```
 
