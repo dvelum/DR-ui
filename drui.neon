@@ -1,0 +1,8 @@
+bootstrap: null # bootstrap file
+server:
+     host: localhost
+     port: 8000 # php dev server port
+     ini: sever.ini # php dev server ini
+     dir: public/ # php dev server public dirrectory
+     router: public/router.php # php dev server router
+registry: null  # path to registry configuration file
