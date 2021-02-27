@@ -33,7 +33,7 @@ class Registry
     public function __construct(array $config)
     {
         $this->config = $config;
-        $this->factory = Factory::fromArray($config);
+        $this->factory = new Factory($config);
     }
 
     public function getRegisteredObjects(): array

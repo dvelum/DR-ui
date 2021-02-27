@@ -20,7 +20,7 @@
     "php": "~7.4",
     "ext-json": "*",
     "composer/installers": "~1.9",
-    "dvelum/dr": "~1.2",
+    "dvelum/dr": "~1.3",
     "dvelum/extjs": "^7.0",
     "laminas/laminas-diactoros": "^2.5",
     "laminas/laminas-http": "^2.14",
