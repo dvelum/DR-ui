@@ -21,7 +21,7 @@ if (php_sapi_name() == "cli-server") {
 
     define('DVELUM_DR_IU_DIR', __DIR__);
 
-    include DVELUM_DR_IU_DIR. '/vendor/autoload.php';
+    include $env['dir']. '/vendor/autoload.php';
 
     $envParams =new \Dvelum\DR\Ui\EnvParams();
     $envParams->setDir($env['dir'])
